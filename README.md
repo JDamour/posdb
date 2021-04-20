@@ -15,6 +15,7 @@ browser.
 ## ~ Getting it up ~
 
 Go ahead and download this project [here](/zcharli/posdb/archive/master.zip) 
+Tutorial https://www.youtube.com/watch?v=3PyVSeU-JiE
 
 #### Dependencies:
 Internet connection 
